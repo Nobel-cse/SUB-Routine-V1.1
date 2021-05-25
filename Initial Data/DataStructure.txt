@@ -1,0 +1,16 @@
+Batch:
+
+BatchNo
+NextBatchNo
+
+
+Faculty:
+
+Name-Code
+NextName-NextCode
+
+Course:
+
+Title-ShortForm-Code
+NextT-NextS-NextC
+

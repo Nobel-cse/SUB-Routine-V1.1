@@ -1,0 +1,123 @@
+Freshman Orientation-FO-ORE 101
+Continuous Orientation-CO-ORE 102
+English Fundamentals-Eng.Fund.-ENG 100
+Differential and Integral Calculus-D&IC-MATH 113
+Physics-Phy-PHY 217
+Electrical Circuit and Devices-ECD-EEE 193
+Computer and Programming Concept-CPC-CSI 115
+Computer and Programming Concept Sessiona-CPC Sess.-CSI 116
+Composition-Compo.-ENG 117
+Discrete Mathematics-DM-MATH 135
+Electronics-Elec.-EEE 195
+Electronics Sessional-Elec. Sess.-EEE 196
+Structured Programming Language-SPL-CSI 123
+Structured Programming Language Sessional-SPL Sess.-CSI 124
+Public Speaking-PS-ENG 127
+Bangladesh Studies-BS-SOC 113
+Digital Logic Design-DLD-CSE 133
+Digital Logic Design Sessional-DLD Sess.-CSE 134
+Data Structure-DS-CSI 221
+Data Structure Sessional-DS Sess.-CSI 222
+Accounting-Acc.-ACC 227
+Coordinate Geometry and Vector Calculus-CGVC-MATH 225
+Digital Electronics and Pulse Technique-DEPT-CSE 213
+Digital Electronics and Pulse Technique Sessional-DEPT Sess.-CSE 214
+Object Oriented Programming-OOP-CSI 217
+Object Oriented Programming Sessional-OOP Sess.-CSI 218
+Economics-Eco.-ECO 319
+Matrix and Differential Equation-MDE-MATH 237
+Computer Organization and Architecture-COA-CSE 233
+Computer Organization and Architecture Sessional-COA Sess.-CSE 234
+Algorithms-Algo.-CSI 231
+Algorithms Sessional-Algo. Sess.-CSI 232
+Theory of Computing-TOC-CSI 315
+Fourier Analysis and Laplace Transformation-FALT-MATH 319
+Microprocessor and Interfacing-M&I-CSE 327
+Microprocessor Interfacing Sessional-M&I Sess.-CSE 328
+Database Management System-DBMS-CSI 223
+Database Management System Sessional-DBMS Sess.-CSI 224
+Data Communication-DC-CSE 335
+Numerical Methods-NM-MATH 327
+Artificial Intelligence and Expert System-AI&ES-CSI 421
+Artificial Intelligence and Expert System Sessional-AI&ES Sess.-CSI 422
+Advanced Programming-AP-CSI 233
+Advanced Programming Sessional-AP Sess.-CSI 234
+Mathematical Analysis for Computer Science-MAC-MATH 337
+Technical Writing and Communication-TWC-ENG 137
+Computer Network-CN-CSE 415
+Computer Network  Sessional-CN Sess.-CSE 416
+System Analysis and Design-SAD-CSI 323
+System Analysis and Design Sessional-SAD Sess.-CSI 324
+Software Engineering-SE-CSI 331
+Software Engineering Sessional-SE Sess.-CSI 332
+Operating System-OS-CSI 313
+Operating System Sessional-OS Sess.-CSI 314
+Compiler-Comp.-CSI 411
+Compiler Sessional-Comp. Sess.-CSI 412
+Project and Thesis-Pro.&The.-CSE 400
+Computer Graphics-CG-CSI 413
+Computer Graphics Sessional-CG Sess.-CSI 414
+Information System Management-ISM-CSI 439
+Professional Orientation-PO-ORE 103
+Internet and E commerce Technology-IET-CSI 341
+Internet and E commerce Technology Sessional-IET Sess.-CSI 342
+Web Programming and Publishing-WPP-CSI 343
+Web Programming and Publishing Sessional-WPP Sess.-CSI 344
+Network Administration-NA-CSE 351
+Network Administration Sessional-NA Sess.-CSE 352
+Expert Information System-EIS-CSI 345
+Expert Information System Sessional-EIS Sess.-CSI 346
+IT in Organization-IT Org.-CSI 235
+E Governance and E Business-EG&EB-CSI 443
+E Commerce Laws, Regulations and Security-ECom.-CSI 445
+IT Entrepreneurship Development-IT ED-CSI 447
+Switching and Routing-SR-CSE 353
+Switching and Routing Sessional-SR Sess.-CSE 354
+Wireless Network-WN-CSE 355
+Wireless Network Sessional-WN Sess.-CSE 356
+Searching and Remote Access-SRA-CSE 357
+Searching and Remote Access Sessional-SRA Sess.-CSE 358
+Digital Signal Processing-DSP-CSE 433
+Communication Engineering-CE-CSE 451
+Network Security-NS-CSE 453
+Photonics and Fiber Optics-PFO-CSE 455
+Visual and Internet Programming-VIP-CSI 311
+Visual and Internet Programming Sessional-VIP Sess.-CSI 312
+Software Architecture-SA-CSI 361
+Software Architecture Sessional-SA Sess.-CSI 362
+Distributed Database Management System-DDMS-CSI 363
+Distributed Database Management System Sessional-DDMS Sess.-CSI 364
+Software Development Management-SDM-CSI 365
+Software Development Management Sessional-SDM Sess.-CSI 366
+Distributed Application Development-DAD-CSI 367
+Distributed Application Development Sessional-DAD Sess.-CSI 368
+Software Security and Authentication-SSA-CSI 461
+Software Testing and Quality Assurance-STQA-CSI 463
+Software Management and Maintenance-SMM-CSI 465
+Software Project Management-SPM-CSI 467
+Basic Multimedia Theory-BMT-CSI 371
+Basic Multimedia Theory Sessional-BMT Sess.-CSI 372
+Multimedia Coding-MC-CSI 373
+Multimedia Coding Sessional-MC Sess.-CSI 374
+Multimedia Animation and 3D Rendering-MA&3DR-CSI 375
+Multimedia Animation and 3D Rendering Sessional-MA&3DR Sess.-CSI 376
+Computer Game and Movie Making-CGMM-CSI 377
+Computer Game and Movie Making Sessional-CGMM Sess.-CSI 378
+Image and Content Retrieval-ICR-CSI 471
+Distributed Multimedia Searching-DMS-CSI 473
+Multimedia Streaming and Communication-MSC-CSI 475
+Computer Vision-CV-CSI 477
+Simulation and Modeling-SM-CSI 417
+Simulation and Modeling Sessional-SM Sess.-CSI 418
+Computer Peripherals and Interfacing-CPI-CSE 333
+Computer Peripherals and Interfacing Sessional-CPI Sess.-CSE 334
+VLSI Design-VLSI-CSE 431
+VLSI Design Sessional-VLSI Sess.-CSE 432
+Data Mining and Knowledge Discovery-DMKD-CSI 381
+Data Mining and Knowledge Discovery Sessional-DMKD Sess.-CSI 382
+Multimedia System Design-MSD-CSI 423
+Pattern Recognition-PR-CSI 425
+Graph Theory-GT-CSI 427
+Machine-Human Interaction-MHI-CSI 481
+Machine Learning-ML-CSI 483
+Decision Support System-DSS-CSI 485
